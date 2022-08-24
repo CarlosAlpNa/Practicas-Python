@@ -21,3 +21,6 @@ print(mensaje2)
 print(mensaje2.upper())
 
 print(mensaje2.lower())
+
+print("Salto \nDe \nTexto")
+print("Salto\n\tDe\n\t\tTexto\n\t\t\tY\n\t\t\t\tTabulacion")
