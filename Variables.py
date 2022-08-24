@@ -6,3 +6,6 @@ print(mensaje)
 mensaje = 100
 
 print(mensaje + 10)
+
+print("Variables String 'Y sus usos'")
+print('Diferentes maneras de usarlo "Uso de las comillas"')
