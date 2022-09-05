@@ -55,5 +55,6 @@ print("Veamos si el resultado es el que pide el ejercicio", + opEjer  )
 #Cap 8
 op1024 = 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2
 print("Veamos si el resultado es el que pide el ejercicio", + op1024  )
-
+#Cap 9
 print("Vamos a redondear 17.567383292929200234 para tener solo 5 decimales", + round(17.567383292929200234, 5))
+
