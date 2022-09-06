@@ -10,3 +10,6 @@ if x < y and z > y: #Usos de los operadores logicos
     print("Se cumplen las dos condiciones")
 else:
     print("No se cumplen las dos condiciones")    
+if x < y:
+    pass #Se ultiliza para dejarlo sin instrucciones y que no genere error de compilacion
+   
